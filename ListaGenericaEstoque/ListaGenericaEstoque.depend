@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1739826900 source:c:\users\manta\onedrive\Área de trabalho\revisão\listagenericaestoque\main.cpp
+	<iostream>
+	"listagenericaestoque.h"
+	<string>
+
+1739827126 c:\users\manta\onedrive\Área de trabalho\revisão\listagenericaestoque\listagenericaestoque.h
+	<iostream>
+

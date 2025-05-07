@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1741100244 source:c:\users\manta\onedrive\Área de trabalho\revisão\filacircularsupermercado\main.cpp
+	<iostream>
+	"filaSuperMercado.h"
+	<time.h>
+
+1741099633 c:\users\manta\onedrive\Área de trabalho\revisão\filacircularsupermercado\filasupermercado.h
+	<iostream>
+

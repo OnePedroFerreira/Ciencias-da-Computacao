@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1716916368 source:c:\users\manta\onedrive\documentos\c\projeto arvore 1\arvorebbusca\arvoredebusca\main.cpp
+	<iostream>
+	"arvoreBusca.h"
+
+1716916575 c:\users\manta\onedrive\documentos\c\projeto arvore 1\arvorebbusca\arvoredebusca\arvorebusca.h
+	<iostream>
+

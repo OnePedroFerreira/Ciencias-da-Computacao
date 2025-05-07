@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1740331835 source:c:\users\manta\onedrive\Área de trabalho\revisão\listaencadeada\main.cpp
+	<iostream>
+	<string>
+	"listaEncadeada.h"
+
+1741547526 c:\users\manta\onedrive\Área de trabalho\revisão\listaencadeada\listaencadeada.h
+	<iostream>
+	<string>
+

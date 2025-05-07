@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1741627619 source:c:\users\manta\onedrive\Área de trabalho\revisão\jogomaiorsequencia\main.cpp
+	<iostream>
+	"JogoMSequencia.h"
+	<time.h>
+	<cstdlib>
+
+1741627414 c:\users\manta\onedrive\Área de trabalho\revisão\jogomaiorsequencia\jogomsequencia.h
+	<iostream>
+	<time.h>
+	<algorithm>
+	<algorithm>
+

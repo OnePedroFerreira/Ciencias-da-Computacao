@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1740601730 source:c:\users\manta\onedrive\Área de trabalho\revisão\filaestaticacircular\main.cpp
+	<iostream>
+	"filaEstaticaCircular.h"
+	<cstdlib>
+	<ctime>
+
+1740601759 c:\users\manta\onedrive\Área de trabalho\revisão\filaestaticacircular\filaestaticacircular.h
+	<iostream>
+

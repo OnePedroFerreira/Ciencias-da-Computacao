@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1739832810 source:c:\users\manta\onedrive\Área de trabalho\revisão\listagenerica\main.cpp
+	<iostream>
+	"listaGenerica.h"
+	<cstdlib>
+	<ctime>
+
+1739910800 c:\users\manta\onedrive\Área de trabalho\revisão\listagenerica\listagenerica.h
+	<iostream>
+

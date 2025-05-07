@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1739486627 source:c:\users\manta\onedrive\Área de trabalho\revisão\lista_preco\main.cpp
+	<iostream>
+	"lista.h"
+
+1739487222 c:\users\manta\onedrive\Área de trabalho\revisão\lista_preco\lista.h
+	<iostream>
+	<ctime>
+
